@@ -1,7 +1,8 @@
-name: myproject
+name: authentication_repository
 description: A new Flutter project.
 
 publish_to: 'none'
+
 version: 1.0.0+1
 
 environment:
@@ -10,20 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # compare objects in Dart
-  equatable: ^2.0.3
-  #bussnes logic
-  flutter_bloc: ^8.1.1
-  bloc: ^8.1.0
-  #local Storage
-  shared_preferences: ^2.0.15
-  #local Packages
-  authentication_repository:
-   path: packages/authentication_repository
 
 
-
-
+  cupertino_icons: ^1.0.5
+  firebase_core: ^1.21.0
+  firebase_auth: ^3.6.4
 
 dev_dependencies:
   flutter_test:
@@ -31,9 +23,7 @@ dev_dependencies:
 
   flutter_lints: ^2.0.1
 
-
 flutter:
 
   uses-material-design: true
-
 

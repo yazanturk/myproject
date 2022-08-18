@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271991397836",
+    "project_id": "myproject-adfed",
+    "storage_bucket": "myproject-adfed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271991397836:android:56fd3cb67fad2a2e4e5169",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271991397836-n25grn1ocsu32m5lqtgjre50i0q5obp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuP0EZmn3gGVJYonuaB_7kdwp_ANotdms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271991397836-n25grn1ocsu32m5lqtgjre50i0q5obp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
